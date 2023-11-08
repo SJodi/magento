@@ -1,0 +1,4 @@
+Test/Pages/magentoPages.class
+Test/Tests/magentoTests.class
+Test/Steps/magentoSteps.class
+Test/JunitRunnerTest.class
